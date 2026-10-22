@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<DSHD>
+	
+	<HoaDon>
+		<Loai>1</Loai> <!--Loai 1: Hoa don doanh nghiep-->
+		<MaHD>HD0001</MaHD>
+		<HoTen>Cong ty ABC</HoTen>
+		<NgayLap>23/05/2026</NgayLap>
+		<KhoangCach>120</KhoangCach>
+		<KhoiLuong>150</KhoiLuong>
+		<DonGia>200000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>1</Loai>
+		<MaHD>HD0002</MaHD>
+		<HoTen>Cong ty Minh Phat</HoTen>
+		<NgayLap>25/05/2026</NgayLap>
+		<KhoangCach>80</KhoangCach>
+		<KhoiLuong>200</KhoiLuong>
+		<DonGia>350000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>1</Loai>
+		<MaHD>HD0003</MaHD>
+		<HoTen>Cong ty Thanh Cong</HoTen>
+		<NgayLap>2/06/2026</NgayLap>
+		<KhoangCach>150</KhoangCach>
+		<KhoiLuong>300</KhoiLuong>
+		<DonGia>500000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>2</Loai>		<!--Loai 2: Hoa don khach than thiet-->
+		<MaHD>HD0004</MaHD>
+		<HoTen>Nguyen Van An</HoTen>
+		<NgayLap>27/05/2026</NgayLap>
+		<KhoangCach>50</KhoangCach>
+		<KhoiLuong>80</KhoiLuong>
+		<DonGia>180000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>2</Loai>
+		<MaHD>HD0005</MaHD>
+		<HoTen>Tran Thi Binh</HoTen>
+		<NgayLap>30/05/2026</NgayLap>
+		<KhoangCach>100</KhoangCach>
+		<KhoiLuong>120</KhoiLuong>
+		<DonGia>250000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>2</Loai>
+		<MaHD>HD0006</MaHD>
+		<HoTen>Le Hoang Nam</HoTen>
+		<NgayLap>5/06/2026</NgayLap>
+		<KhoangCach>25</KhoangCach>
+		<KhoiLuong>60</KhoiLuong>
+		<DonGia>150000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>3</Loai>		<!--Loai 2: Hoa don khach thuong-->
+		<MaHD>HD0007</MaHD>
+		<HoTen>Pham Thi Lan</HoTen>
+		<NgayLap>28/5/2026</NgayLap>
+		<KhoangCach>120</KhoangCach>
+		<KhoiLuong>50</KhoiLuong>
+		<DonGia>100000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>3</Loai>
+		<MaHD>HD0008</MaHD>
+		<HoTen>Vo Minh Khang</HoTen>
+		<NgayLap>8/6/2026</NgayLap>
+		<KhoangCach>70</KhoangCach>
+		<KhoiLuong>150</KhoiLuong>
+		<DonGia>220000</DonGia>
+	</HoaDon>
+	
+	<HoaDon>
+		<Loai>3</Loai>
+		<MaHD>HD0009</MaHD>
+		<HoTen>Do Ngoc Mai</HoTen>
+		<NgayLap>15/6/2026</NgayLap>
+		<KhoangCach>15</KhoangCach>
+		<KhoiLuong>90</KhoiLuong>
+		<DonGia>120000</DonGia>
+	</HoaDon>
+	
+</DSHD>

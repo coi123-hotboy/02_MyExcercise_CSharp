@@ -1,0 +1,7 @@
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\bin\Debug\BT_TuSoan01.exe.config
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\bin\Debug\BT_TuSoan01.exe
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\bin\Debug\BT_TuSoan01.pdb
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\obj\Debug\BT_TuSoan01.csproj.AssemblyReference.cache
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\obj\Debug\BT_TuSoan01.csproj.CoreCompileInputs.cache
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\obj\Debug\BT_TuSoan01.exe
+C:\C# Basic\Bài tập THOOP\BT_TuSoan01\BT_TuSoan01\obj\Debug\BT_TuSoan01.pdb
